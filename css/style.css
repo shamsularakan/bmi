@@ -1,0 +1,37 @@
+*{
+  font-family: 'Tajawal', sans-serif;
+
+}
+:root{
+  --c:#008000;
+  --cl:#FDB10B;
+  --c2:#FE8535;
+  --c3:#FD292F;
+  --c4:#B20000;
+  --c5:#68904D;
+  --c6:#431D32;
+}
+body{
+
+}
+.card header{
+  min-height: 150px;
+  background-color: #eee;
+
+}
+.bmi-mark{
+  display: block;
+  width: 30px;
+  height: 30px;
+  background-color: #fff;
+}
+.contact{
+  text-decoration: none;
+  font-size: 0.9em;
+
+}
+.contact .pic{
+  width: 25px;
+  height: 25px;
+
+}
